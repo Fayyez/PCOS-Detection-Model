@@ -14,3 +14,6 @@ We have used the [PCOS Dataset](https://www.kaggle.com/datasets/prasoonkottarath
 
 ## Models Used
 Several diiferent models were used including the `RandomForestClassifier()`, `KNeighborsClassifier()`,  `AdaBoostClassifier()` and `XGBClassifier()` etc as welll as the `StackingClassifier()` using `RandomForestClassifier()` as the default meta model with promising results.
+
+## License
+This PCOS detection model is open-source software licensed under the GNU Lesser General Public License (LGPL) Version 2.1. See the LICENSE file for more details.
